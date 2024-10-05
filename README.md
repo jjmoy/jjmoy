@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Jace Moy, a Junior Computer Science student at TAMU. I'm interested in furthering my cybersecurity skills and learning more about cyber as a whole. I like reading novels and watching documentaries whenever I have spare time. 
 
 <!--
 **jjmoy/jjmoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
